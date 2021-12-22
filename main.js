@@ -1,0 +1,26 @@
+// let a = prompt('Введите значение a')
+// let b = prompt('Введите значение b')
+// let x =(-(b/a))
+// alert ('х='+(x))
+// ------------
+// let hour = prompt('Введите поточное время (Час)')
+// let minuts = prompt('минуты')
+// let resth =(24-hour)
+// let restm =(60-minuts)
+// alert ('Времени до конца дня осталось '+(resth)+':'+(restm))
+// -------------
+// let numbers = prompt('Введите трехзначное число')
+// let second = (Math.floor((numbers / 10) % 10))
+// alert ('Вторая цифра '+(second))
+// -------------
+// let numbers = prompt('Введите пятизначное число')
+// let first = (Math.floor((numbers / 1) % 10))
+// let second = (Math.floor((numbers / 10) % 10))
+// let third = (Math.floor((numbers / 100) % 10))
+// let fourth = (Math.floor((numbers / 1000) % 10))
+// let fifth = (Math.floor((numbers / 10000) % 10))
+// alert ((first)+''+(fifth)+''+(fourth)+''+(third)+''+(second))
+// -------------
+// let sales = prompt('Введите общую сумму продаж за месяц')
+// let interest = (sales/10)
+// alert ('Общая зарплата = '+'250$+'+(interest)+'$')
